@@ -1,0 +1,98 @@
+.dark {
+    background-color: #111;
+    color: rgb(156, 156, 156);
+    height: fit-content;
+}
+
+.dark a:hover {
+
+    color: rgb(156, 156, 156);
+
+}
+
+.dark .navbar {
+    color: white;
+}
+
+.dark nav.navbar {
+    box-shadow: rgba(133, 133, 135, 0.25) 0px 13px 27px -5px, rgba(95, 95, 95, 0.3) 0px 8px 16px -8px;
+}
+
+.dark .navbar-brand {
+    color: gray;
+    font-size: 20px;
+}
+
+.dark .form-control:focus {
+    background-color: #111;
+    color: gray;
+
+}
+
+.dark .navbar {
+    color: gray;
+}
+
+.dark .dropdown-toggle {
+    background-color: #222;
+    color: gray;
+    border-color: #333;
+    box-shadow: rgba(67, 66, 66, 0.25) 0px 54px 55px, rgba(162, 162, 162, 0.12) 0px -12px 30px, rgba(162, 162, 162, 0.12) 0px 4px 6px, rgba(162, 162, 162, 0.17) 0px 12px 13px, rgba(162, 162, 162, 0.09) 0px -3px 5px;
+
+}
+
+.dark .dropdown-toggle:hover {
+    background-color: #444;
+}
+
+.dark .dropdown-menu {
+    background-color: #111;
+    color: gray;
+
+}
+
+.dark .badge {
+    background: transparent !important;
+    color: gray;
+}
+
+.dark .card {
+    color: rgb(156, 156, 156);
+    border-color: #333;
+    background-color: #111;
+
+}
+
+.dark input {
+    background: transparent;
+    color: white;
+    border-color: #333;
+
+}
+
+.dark .filters {
+    background-color: #333;
+    color: rgb(156, 156, 156);
+
+}
+
+.dark .filters .btn {
+    background: #333;
+    color: rgb(156, 156, 156);
+}
+.dark .home {
+    background-color: #111;
+    color: rgb(156, 156, 156);
+    height: fit-content;
+
+}
+.dark .home .list-group-item {
+    background-color: #333;
+    color: rgb(156, 156, 156);
+}
+
+.dark .list-group-item .form-control {
+    background-color: #333;
+
+    color: white;
+}
