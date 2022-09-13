@@ -1,6 +1,7 @@
 .dark {
     background-color: #111;
     color: rgb(156, 156, 156);
+    height: fit-content;
 }
 
 .dark a:hover {
@@ -78,9 +79,13 @@
 .dark .filters .btn {
     background: #333;
     color: rgb(156, 156, 156);
+}
+.dark .home {
+    background-color: #111;
+    color: rgb(156, 156, 156);
+    height: fit-content;
 
 }
-
 .dark .home .list-group-item {
     background-color: #333;
     color: rgb(156, 156, 156);
